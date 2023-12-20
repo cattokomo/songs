@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89f01329df0f0c7c",
+        "id": "3127da3461025980",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d6abc1b7c2496c",
+            "id": "29ed9f69ba8d15ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,6 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6d6abc1b7c2496c",
-  "lastOpenFiles": []
+  "active": "29ed9f69ba8d15ca",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "2023-12-20.md",
+    "Untitled.canvas",
+    "README.md",
+    "silly-plans.md"
+  ]
 }
